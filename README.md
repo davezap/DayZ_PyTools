@@ -18,7 +18,7 @@ with Arma, Reforger. Technically as they all use similar file structures it
 should work, I've tried to follow the documented exceptions for each.
 
 P3D.py is definitely not working yet. I'm just stuck on this one as the
-documentation seems to have deviated from the files I have??? 
+documentation seems to have deviated from the files I have???  
 https://community.bistudio.com/wiki?title=P3D_File_Format_-_ODOLV4x
 
 
