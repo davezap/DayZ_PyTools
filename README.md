@@ -1,6 +1,4 @@
-# DaveZ's : PyDayZ
-
-
+# DaveZ's : DayZ Python Tools.
 
 <!-- ----------------------------------------------------------------------- -->
 # ABOUT
@@ -24,20 +22,19 @@ documentation seems to have deviated from the files I have???
 https://community.bistudio.com/wiki?title=P3D_File_Format_-_ODOLV4x
 
 
-File formats
-https://community.bistudio.com/wiki/BIS_File_Formats?useskin=darkvector
-PAA : https://community.bistudio.com/wiki/PAA_File_Format
-PBO : https://community.bistudio.com/wiki/PBO_File_Format
-WRP : https://community.bistudio.com/wiki/Wrp_File_Format_-_OPRWv17_to_24
-P3D : https://community.bistudio.com/wiki?title=P3D_File_Format_-_ODOLV4x
-RAP : https://community.bistudio.com/wiki/raP_File_Format_-_OFP
+File formats:<br/>
+https://community.bistudio.com/wiki/BIS_File_Formats?useskin=darkvector<br/>
+PAA : https://community.bistudio.com/wiki/PAA_File_Format<br/>
+PBO : https://community.bistudio.com/wiki/PBO_File_Format<br/>
+WRP : https://community.bistudio.com/wiki/Wrp_File_Format_-_OPRWv17_to_24<br/>
+P3D : https://community.bistudio.com/wiki?title=P3D_File_Format_-_ODOLV4x<br/>
+RAP : https://community.bistudio.com/wiki/raP_File_Format_-_OFP<br/>
 
-Data Types:
-https://community.bistudio.com/wiki/Generic_FileFormat_Data_Types
+Data Types:<br/>
+https://community.bistudio.com/wiki/Generic_FileFormat_Data_Types<br/>
 
 
 # Setup
 
-I'm just developing at the moment running the tests.
-# python -m tests
+I'm just developing at the moment running the tests with python -m tests
 See the tests/__main__.py for that.
